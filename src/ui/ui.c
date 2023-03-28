@@ -22,7 +22,7 @@
 
 #include "ui.h"
 #include <stdbool.h>
-#include "../glyphs.h"
+#include "glyphs.h"
 #include "../main.h"
 #include "../crypto/waves.h"
 #include "transactions/transfer.h"
